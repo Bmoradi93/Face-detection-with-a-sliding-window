@@ -1,0 +1,22 @@
+name: ense885ay-a5
+channels:
+- pytorch
+- menpo
+- defaults
+dependencies:
+- jupyter
+- matplotlib=2.2.3
+- python=3.5
+- parso=0.7
+- scikit-learn
+- scikit-image
+- scipy
+- numpy
+- opencv3
+- cyvlfeat
+- pytorch-cpu
+- torchvision
+- pip
+- pip:
+  - visdom
+- pyyaml
